@@ -3,7 +3,7 @@
 ### Hey there,I'm Harun Veli 👋
 
 ## Computer Engineering Student
-<font color="gray">We are the organisms that turn '< coffee />' into '< code />'</font>
+<font color="gray">We are the organisms that turn <b>coffee</b> into <b>code</b> </font>
 
 
 ### Reach out to me
