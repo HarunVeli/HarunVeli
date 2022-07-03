@@ -8,5 +8,6 @@
 
 ### Reach out to me
 <a href="https://www.instagram.com/harun_veli/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left" /></a>
-<br/>
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarunVeli&layout=compact">
