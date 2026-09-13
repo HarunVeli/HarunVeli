@@ -2,7 +2,7 @@
 
 ### Hey there,I'm Harun Veli 👋
 
-## Computer Engineering Student
+## Computer Engineer
 <font color="gray">We are the organisms that turn <b>coffee</b> into <b>code</b> </font>
 
 
